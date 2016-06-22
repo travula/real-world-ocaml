@@ -1,0 +1,9 @@
+#+TITLE: Real World OCaml
+#+AUTHOR: Thirumal Ravula
+#+DATE: [2016-06-22 Wed]
+
+
+
+This repository holds all the examples and exercises from the book - [[https://realworldocaml.org/][Real World Ocaml]]
+
+
