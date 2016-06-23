@@ -14,9 +14,9 @@ This repository holds all the examples and exercises from the book -
 
 * Merlin - Add IDE Features to Emacs
 
-  [[https://github.com/the-lambda-church/merlin/wiki/emacs-from-scratch#using-libraries][Merlin]] provides enhancements to Emacs to edit OCaml code.  It aims to
-  provide the features available in modern IDEs : error reporting, auto
-  completion, source browsing and much more.
+  [[https://github.com/the-lambda-church/merlin/wiki][Merlin]] provides enhancements to Emacs to edit OCaml code.  It aims to
+  provide the features available in modern IDEs : 
+  [[https://github.com/the-lambda-church/merlin/wiki][error reporting, auto completion, source browsing and much more]].
 
   This [[https://github.com/the-lambda-church/merlin/wiki/emacs-from-scratch#using-libraries][post]] provides information to configure Merlin for Emacs.
 
