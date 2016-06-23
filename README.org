@@ -6,20 +6,19 @@ This repository holds all the examples and exercises from the book -
 [[https://realworldocaml.org/][Real World Ocaml]]
 
 * Installation of OCaml
-  This [[https://github.com/realworldocaml/book/wiki/Installation-Instructions][wiki]] provides all the necessary information in installing [[https://ocaml.org/][OCaml]] and
+  This [[https://github.com/realworldocaml/book/wiki/Installation-Instructions][wiki]] provides all the necessary information to install [[https://ocaml.org/][OCaml]] and
   [[http://opam.ocaml.org][OPAM]] - a package manager for OCaml
 
 * Setting up Emacs as IDE for OCaml
-  The same [[https://github.com/realworldocaml/book/wiki/Installation-Instructions#emacs][wiki]] has all the necessary information in configuring emacs as an
-  IDE for OCaml
+  The same [[https://github.com/realworldocaml/book/wiki/Installation-Instructions#emacs][wiki]] has all the necessary information to configure emacs as an IDE for OCaml
 
 * Merlin - Add IDE Features to Emacs
 
-  [[https://github.com/the-lambda-church/merlin/wiki/emacs-from-scratch#using-libraries][Merlin]] provides enhancements to Emacs for editing OCaml code.  It aims to
+  [[https://github.com/the-lambda-church/merlin/wiki/emacs-from-scratch#using-libraries][Merlin]] provides enhancements to Emacs to edit OCaml code.  It aims to
   provide the features available in modern IDEs : error reporting, auto
   completion, source browsing and much more.
 
-  This [[https://github.com/the-lambda-church/merlin/wiki/emacs-from-scratch#using-libraries][post]] provides information in configuring Merlin for Emacs.
+  This [[https://github.com/the-lambda-church/merlin/wiki/emacs-from-scratch#using-libraries][post]] provides information to configure Merlin for Emacs.
 
 
 
