@@ -3,7 +3,8 @@ let inc b = sum 1 b
 let dec b = sum (-1) b
 let square x = x * x
 
-let ratio x y = Float.of_int x /. Float.of_int y
+let ratio x y = 
+  Float.of_int x /. Float.of_int y
 
 let sum_if_true (test : int -> bool) (first : int) (second : int) : int = 
   (if test first then first else 0)
@@ -23,11 +24,15 @@ let big_number (n : int) : bool =
 
 let sh = first_if_true long_string "short" "shirt"
 
-let add_potato x = x + "potato"
-
 let is_a_multiple (x : int) (y : int) : bool = 
   x mod y = 0
 
-let str_length (x : string) : int = 
+let str_length x = 
   String.length x
 
+
+(*
+let () = print_int (str_length "foo")
+*)
+
+let a_tuple = (3, "three")
